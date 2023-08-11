@@ -1,0 +1,17 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  all: unset;
+}
+
+//tetst 121
+
+@import "./_globlal";
+@import "./_variable";
+@import "./imports/_navBar";
+@import "./imports/_footer";

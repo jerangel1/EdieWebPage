@@ -1,0 +1,50 @@
+#Footer {
+  background-color: #100e1d;
+  color: #fff;
+  height: 24rem;
+  width: 100%;
+  padding: 2.88rem 3.5rem 0 10rem;
+  display: flex;
+  justify-content: space-between;
+
+  .personalInfo {
+    .logo {
+      color: var(--gray-6, #f2f2f2);
+      font-family: "Heebo", sans-serif;
+      font-size: 2.25rem;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+    }
+    .socialMedia {
+      display: flex;
+      justify-content: space-between;
+      width: 5.88rem;
+      i {
+        width: 1.5rem;
+        height: 1.5rem;
+        flex-shrink: 0;
+      }
+    }
+  }
+
+  .navLinks {
+    display: flex;
+    flex-direction: column;
+    width: 5.75rem;
+    height: 11.25rem;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200%; /* 2.25rem */
+  }
+
+  .personalContact {
+    p {
+      font-size: 0.875rem;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+    }
+  }
+}
