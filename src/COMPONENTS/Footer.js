@@ -1,4 +1,5 @@
 import React from "react";
+import InputContainer from "./InputContainer";
 
 const Footer = () => {
   return (
@@ -20,10 +21,7 @@ const Footer = () => {
       </div>
       <div className="personalContact">
         <p> Want us to contact you?</p>
-        <form>
-          <label for="Email" value="Join"></label>
-          <input type="submit" value="Join"></input>
-        </form>
+        <InputContainer />
       </div>
     </div>
   );

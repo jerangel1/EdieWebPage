@@ -1,0 +1,11 @@
+[33mcommit b6758c72b0475fc0301e0f463bc55559b298d6f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Carlos Armas <opcnotfound@gmail.com>
+Date:   Thu Aug 10 21:04:59 2023 -0400
+
+    0.0.1.1 setup gh-pages
+
+[33mcommit 5eeddd188b1f69e2dee7dc5555c12177ac212b0c[m[33m ([m[1;31morigin/build[m[33m, [m[1;32mbuild[m[33m)[m
+Author: Carlos Armas <opcnotfound@gmail.com>
+Date:   Thu Aug 10 20:43:10 2023 -0400
+
+    0.0.1 Inicializacion
