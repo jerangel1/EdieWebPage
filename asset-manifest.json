@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EdieWebPage/static/css/main.14d642e5.css",
+    "main.js": "/EdieWebPage/static/js/main.7b0c765d.js",
+    "index.html": "/EdieWebPage/index.html",
+    "main.14d642e5.css.map": "/EdieWebPage/static/css/main.14d642e5.css.map",
+    "main.7b0c765d.js.map": "/EdieWebPage/static/js/main.7b0c765d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d642e5.css",
+    "static/js/main.7b0c765d.js"
+  ]
+}
