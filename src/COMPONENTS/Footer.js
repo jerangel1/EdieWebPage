@@ -3,7 +3,7 @@ import InputContainer from "./InputContainer";
 
 const Footer = () => {
   return (
-    <div id="Footer">
+    <footer id="Footer">
       <div className="mainContent">
         <ul className="navLinks">
           <li> Home</li>
@@ -31,7 +31,7 @@ const Footer = () => {
           created by - devChallenges.io
         </p>
       </div>
-    </div>
+    </footer>
   );
 };
 

@@ -1,0 +1,50 @@
+.resena {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 58.5625rem;
+  height: 18.0625rem;
+  margin-left: 10.3rem;
+  margin-bottom: 12.5rem;
+  flex-shrink: 0;
+  color: $gray-1;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
+  &Cuota {
+    width: 58.5625rem;
+    padding-right: 3.5rem;
+    p {
+      font-size: 2.25rem;
+    }
+  }
+
+  &Id {
+    display: flex;
+    flex-direction: row;
+    &_profilePic {
+      margin-right: 1.8rem;
+      img {
+        height: 5.125rem;
+        width: 5.125rem;
+        border-radius: 0.75rem;
+        background-color: $shadow-1;
+      }
+    }
+
+    &_profileInfo {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      &_name {
+        font-size: 1.5rem;
+      }
+      &_title {
+        color: $gray-3;
+        font-size: 1.125rem;
+      }
+    }
+  }
+}

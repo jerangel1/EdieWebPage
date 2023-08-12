@@ -99,7 +99,7 @@ li {
           justify-content: space-between;
 }
 #Footer .mainContent .personalInfo .logo {
-  color: var(--gray-6, #F2F2F2);
+  color: var(--gray-6, #f2f2f2);
   font-family: "Heebo", sans-serif;
   font-size: 2.25rem;
   font-style: normal;
@@ -144,7 +144,7 @@ li {
 }
 
 .credits {
-  color: var(--gray-6, #F2F2F2);
+  color: var(--gray-6, #f2f2f2);
   text-align: center;
   font-family: Montserrat;
   font-size: 0.875rem;
@@ -164,7 +164,7 @@ li {
   display: flex;
   width: 21.875rem;
   height: 3.5625rem;
-  background-color: var(--gray-6, #F2F2F2);
+  background-color: var(--gray-6, #f2f2f2);
   border-radius: 0.75rem;
 }
 .input-container input {
@@ -205,7 +205,7 @@ li {
   border: none;
   -webkit-transition: 0.6s ease;
   transition: 0.6s ease;
-  color: var(--gray-6, #F2F2F2);
+  color: var(--gray-6, #f2f2f2);
   font-family: Poppins;
   font-size: 1.125rem;
   font-style: normal;
@@ -231,4 +231,71 @@ li {
   pointer-events: none;
   background-color: var(--gray-1, #333);
   opacity: 0.5;
+}
+
+.resena {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 58.5625rem;
+  height: 18.0625rem;
+  margin-left: 10.3rem;
+  margin-bottom: 12.5rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  color: var(--gray-1, #333);
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.resenaCuota {
+  width: 58.5625rem;
+  padding-right: 3.5rem;
+}
+.resenaCuota p {
+  font-size: 2.25rem;
+}
+.resenaId {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+.resenaId_profilePic {
+  margin-right: 1.8rem;
+}
+.resenaId_profilePic img {
+  height: 5.125rem;
+  width: 5.125rem;
+  border-radius: 0.75rem;
+  background-color: var(#c4c4c4);
+}
+.resenaId_profileInfo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.resenaId_profileInfo_name {
+  font-size: 1.5rem;
+}
+.resenaId_profileInfo_title {
+  color: var(--gray-3, #828282);
+  font-size: 1.125rem;
 }

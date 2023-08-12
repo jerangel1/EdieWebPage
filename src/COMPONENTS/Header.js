@@ -2,9 +2,9 @@ import { NavBar } from "./NavBar/NavBar";
 
 const Header = () => {
   return (
-    <div className="" id="Header">
+    <header className="" id="Header">
       <NavBar />
-    </div>
+    </header>
   );
 };
 
