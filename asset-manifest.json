@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EdieWebPage/static/css/main.14d642e5.css",
-    "main.js": "/EdieWebPage/static/js/main.7b0c765d.js",
+    "main.css": "/EdieWebPage/static/css/main.6d8be1be.css",
+    "main.js": "/EdieWebPage/static/js/main.4fe37270.js",
     "index.html": "/EdieWebPage/index.html",
-    "main.14d642e5.css.map": "/EdieWebPage/static/css/main.14d642e5.css.map",
-    "main.7b0c765d.js.map": "/EdieWebPage/static/js/main.7b0c765d.js.map"
+    "main.6d8be1be.css.map": "/EdieWebPage/static/css/main.6d8be1be.css.map",
+    "main.4fe37270.js.map": "/EdieWebPage/static/js/main.4fe37270.js.map"
   },
   "entrypoints": [
-    "static/css/main.14d642e5.css",
-    "static/js/main.7b0c765d.js"
+    "static/css/main.6d8be1be.css",
+    "static/js/main.4fe37270.js"
   ]
 }
