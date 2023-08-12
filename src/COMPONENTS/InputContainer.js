@@ -5,7 +5,7 @@ const InputContainer = () => {
     <div class="input-container">
       <input required="" placeholder="Email" type="email" />
       <button class="invite-btn" type="button">
-        Invite
+        Join
       </button>
     </div>
   );
